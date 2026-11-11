@@ -1,2 +1,0 @@
-# JaronaSaveEditor
-Saveeditor for gd
